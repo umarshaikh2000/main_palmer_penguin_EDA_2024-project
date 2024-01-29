@@ -1,6 +1,6 @@
 # Palmer Penguin EDA Project
 
-## By: [Tahsin Jahin Khalid](https://tahsinjahinkhalid.github.io/)
+## By: Umar Shaikh
 
 ## Project Summary
 
